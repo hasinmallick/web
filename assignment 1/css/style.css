@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+      body {
+        width: 100%;
+        background-color: grey;
+      }
+      div{
+      float:left;
+      height:410px; 
+      width:390px;
+      padding:0 5px;
+      margin: 40px;
+      border: 2px solid black;
+      }
+      #column1{ 
+      background-color: #ABE241; 
+      font-family: 'Comfortaa', cursive;
+      } 
+      #column2{ 
+      background-color: #EA5413;
+      font-family: 'Comfortaa', cursive;
+      } 
+      #column3{ 
+      background-color: #0AEFCE; 
+      font-family: 'Comfortaa', cursive;
+      } 
+      h2{ 
+      color: #000000; 
+      text-align:center;
+      font-family: 'Comfortaa', cursive; 
+      } 
+      .a {
+        float: right;
+        margin-top: -2px;
+        margin-right: -7px;
+        width: 100px;
+        height: 20px;
+        align-items: center;
+        text-align: center;
+      }
+      p {
+        position: relative;
+        top: 50px;
+        height: 80%;
+        text-align: justify;
+        
+      }
